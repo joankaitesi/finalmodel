@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/db7928fb34184af18685b1d0c7e5bd7b/artifacts
+end_time: 1711181762639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db7928fb34184af18685b1d0c7e5bd7b
+run_name: enthused-finch-920
+run_uuid: db7928fb34184af18685b1d0c7e5bd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711181761651
+status: 3
+tags: []
+user_id: DELL

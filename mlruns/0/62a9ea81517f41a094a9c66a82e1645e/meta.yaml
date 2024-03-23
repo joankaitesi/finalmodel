@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/62a9ea81517f41a094a9c66a82e1645e/artifacts
+end_time: 1711180655795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62a9ea81517f41a094a9c66a82e1645e
+run_name: flawless-mare-72
+run_uuid: 62a9ea81517f41a094a9c66a82e1645e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711180627559
+status: 4
+tags: []
+user_id: DELL

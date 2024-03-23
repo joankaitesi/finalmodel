@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08e2a724567446e8a5a2271bad33be90/artifacts
+end_time: 1711188485719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08e2a724567446e8a5a2271bad33be90
+run_name: nimble-hare-340
+run_uuid: 08e2a724567446e8a5a2271bad33be90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711188372624
+status: 4
+tags: []
+user_id: DELL

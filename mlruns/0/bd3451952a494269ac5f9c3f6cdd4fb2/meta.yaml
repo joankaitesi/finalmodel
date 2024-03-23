@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd3451952a494269ac5f9c3f6cdd4fb2/artifacts
+end_time: 1711188372561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3451952a494269ac5f9c3f6cdd4fb2
+run_name: persistent-sponge-50
+run_uuid: bd3451952a494269ac5f9c3f6cdd4fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711188371729
+status: 3
+tags: []
+user_id: DELL
