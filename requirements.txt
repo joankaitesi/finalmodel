@@ -73,7 +73,7 @@ Pygments
 pyparsing
 python-dateutil
 pytz
-pywin32==306
+
 PyYAML
 querystring-parser
 requests
