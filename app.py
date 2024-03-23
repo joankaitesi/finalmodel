@@ -61,4 +61,4 @@ def upload_file():
 
 if __name__ == '__main__':
     app.config['UPLOAD_FOLDER'] = 'uploads'
-    app.run(port=5002, debug=True)
+    app.run(port=5000, debug=True)
